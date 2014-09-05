@@ -11,6 +11,7 @@ This is a repo for some extra HipChat Icons.
 * ![](icons/hero.jpg) (hero)
 * ![](icons/ice_cube.png) (icecube)
 * ![](icons/lookatit.jpg) (lookatit)
+* ![](icons/oz.jpg) (oz)
 * ![](icons/robot.png) (bot)
 * ![](icons/sc.png) (gogogo)
 * ![](icons/timeforthat.gif) (timeforthat)
